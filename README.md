@@ -19,6 +19,7 @@
 6. [Results](#results)
 7. [Future Enhancements](#future-enhancements)
 8. [Contributing](#contributing)
+9. [Acknowledgement](#acknowledgements)
 
 ---
 
