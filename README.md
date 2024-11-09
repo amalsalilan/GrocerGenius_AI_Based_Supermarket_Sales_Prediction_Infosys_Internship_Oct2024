@@ -95,7 +95,6 @@ GrocerGenius is an AI-driven solution aimed at helping supermarkets forecast fut
      ```bash
      python app.py
      ```
-4. **Testing**: Run the test suite in `tests/` to validate model accuracy and functionality.
 
 ---
 
