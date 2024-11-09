@@ -52,11 +52,11 @@ GrocerGenius is an AI-driven solution aimed at helping supermarkets forecast fut
 
 #### 3. **Data Preprocessing**
    - **Handling Missing Values**: Impute missing values using appropriate methods.
-   - **Feature Engineering**: Create new features (e.g., 'Day of the Week', 'Holiday Period') to improve model performance.
+   - **Feature Engineering**: Create new features to improve model performance.
    - **Encoding**: Encode categorical features with methods like One-Hot Encoding or Target Encoding.
 
 #### 4. **Model Building & Evaluation**
-   - **Model Selection**: Implement algorithms such as Linear Regression, Decision Trees, and XGBoost.
+   - **Model Selection**: Implement algorithms such as Linear Regression, Random Forest, and XGBoost.
    - **Cross-Validation**: Use cross-validation techniques to ensure model robustness.
    - **Hyperparameter Tuning**: Fine-tune model parameters using Grid Search or Random Search.
    - **Performance Metrics**: Evaluate models based on RMSE, MAE, or R-squared.
