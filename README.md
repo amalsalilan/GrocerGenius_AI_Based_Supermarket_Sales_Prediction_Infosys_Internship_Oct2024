@@ -25,8 +25,6 @@
 ### **Project Overview**
 GrocerGenius is an AI-driven solution aimed at helping supermarkets forecast future sales based on historical sales data. Through predictive modeling, GrocerGenius empowers retail managers to optimize inventory, improve sales strategies, and enhance customer satisfaction.
 
-![Project Diagram](assets/project_diagram.png) *(Include a flowchart showing the stages of the project pipeline)*
-
 ---
 
 ### **Project Workflow**
