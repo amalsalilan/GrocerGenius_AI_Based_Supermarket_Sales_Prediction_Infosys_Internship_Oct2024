@@ -106,4 +106,4 @@ GrocerGenius is an AI-driven solution aimed at helping supermarkets forecast fut
 
 ### **Acknowledgements**
 - This project is part of **Infosys Internship Program 2024**.
-- Special thanks to the mentor @[amalsalilan](https://github.com/amalsalilan) for the guide.
+- Special thanks to the mentor [amalsalilan](https://github.com/amalsalilan) for the guide.
