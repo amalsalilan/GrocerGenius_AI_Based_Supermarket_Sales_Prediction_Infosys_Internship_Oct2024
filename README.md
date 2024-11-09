@@ -17,9 +17,7 @@
 4. [Technologies Used](#technologies-used)
 5. [Getting Started](#getting-started)
 6. [Results](#results)
-7. [Future Enhancements](#future-enhancements)
-8. [Contributing](#contributing)
-9. [Acknowledgement](#acknowledgements)
+7. [Acknowledgement](#acknowledgements)
 
 ---
 
