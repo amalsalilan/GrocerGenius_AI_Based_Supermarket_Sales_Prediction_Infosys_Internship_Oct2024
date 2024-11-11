@@ -61,10 +61,10 @@ GrocerGenius is an AI-driven solution aimed at helping supermarkets forecast fut
    - **Hyperparameter Tuning**: Fine-tune model parameters using Grid Search or Random Search.
    - **Performance Metrics**: Evaluate models based on RMSE, MAE, or R-squared.
 
-#### 5. **Deployment & Documentation**
-   - **Deployment**: Deploy the model using a web framework like Flask or Django.
-   - **API Creation**: Create REST APIs to interface with the model.
-   - **Documentation**: Document the entire process, code, and model usage for ease of replication.
+#### 5. **Deployment & Documentation** (in process)
+   - **Deployment**
+   - **API Creation**
+   - **Documentation**
 
 ---
 
