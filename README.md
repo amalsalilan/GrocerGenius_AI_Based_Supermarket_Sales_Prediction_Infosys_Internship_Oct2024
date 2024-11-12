@@ -98,10 +98,10 @@ GrocerGenius is an AI-driven solution aimed at helping supermarkets forecast fut
 
 ### **Results**
 - **Model Performance**:
-   - Best Model: Linear Regression
-   - R² Score: 1.00
-   - RMSE: 0.00
-   - MAE: 0.00
+   - Best Model : XGBoost
+   - Best Hyperparameters : {'learning_rate': 0.2, 'max_depth': 7, 'n_estimators': 100, 'subsample': 0.9}
+   - Mean Squared Error : 39747.08882305308
+   - R² Score : 0.9853761859590567
 ---
 
 ### **Acknowledgements**
