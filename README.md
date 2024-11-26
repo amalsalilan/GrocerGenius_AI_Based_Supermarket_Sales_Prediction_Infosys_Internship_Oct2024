@@ -1,4 +1,4 @@
-![Screenshot 2024-11-26 191031](https://github.com/user-attachments/assets/ea320043-fcf4-4a66-b9f4-210c97fdf983)# **GrocerGenius: AI-Based Supermarket Sales Prediction**
+# **GrocerGenius: AI-Based Supermarket Sales Prediction**
 
 > **Objective**  
 > Develop an AI model to accurately forecast supermarket sales using historical data, paired with an intuitive user interface.
@@ -103,11 +103,10 @@ GrocerGenius is an AI-driven solution aimed at helping supermarkets forecast fut
    - Mean Squared Error : 39747.08882305308
    - R² Score : 0.9853761859590567
 ---
-
+<br></br>
 ![Screenshot 2024-11-26 191031](https://github.com/user-attachments/assets/fdfa31fb-9001-460f-b115-a80198f55d2c)
 
 ![Screenshot 2024-11-26 191048](https://github.com/user-attachments/assets/8c75d4e4-6353-4b13-ad4a-5c26dc5a65c4)
-
 ---
 
 ### **Acknowledgements**
