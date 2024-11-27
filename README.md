@@ -16,9 +16,6 @@ Build an AI model to predict supermarket sales based on historical data and prov
 - [Architecture Diagram](#architecture-diagram)
 - [Project Milestones](#project-milestones)
 - [Technologies Used](#technologies-used)
-- [How to Use](#how-to-use)
-- [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ---
