@@ -4,18 +4,18 @@ import numpy as np
 import joblib
 
 # Load the saved model and encoders
-model = joblib.load('/home/chetan/Documents/Workspace/Project/best_xgb_model.pkl')
-scaler = joblib.load('/home/chetan/Documents/Workspace/Project/scaler.pkl')
-standard_scaler = joblib.load('/home/chetan/Documents/Workspace/Project/standard_scaler.pkl')
-yeo_johnson = joblib.load('/home/chetan/Documents/Workspace/Project/yeo_johnson.pkl')
-one_hot_encoder = joblib.load('/home/chetan/Documents/Workspace/Project/one_hot_encoder.pkl')
-ordinal_encoder = joblib.load('/home/chetan/Documents/Workspace/Project/ordinal_encoder.pkl')
+model = joblib.load('best_xgb_model.pkl')
+scaler = joblib.load('scaler.pkl')
+standard_scaler = joblib.load('standard_scaler.pkl')
+yeo_johnson = joblib.load('yeo_johnson.pkl')
+one_hot_encoder = joblib.load('one_hot_encoder.pkl')
+ordinal_encoder = joblib.load('ordinal_encoder.pkl')
 
 # Load additional pre-computed values
-item_weight_medians = joblib.load('/home/chetan/Documents/Workspace/Project/item_weight_medians.pkl')
-outlet_size_modes = joblib.load('/home/chetan/Documents/Workspace/Project/outlet_size_modes.pkl')
-median_visibility = joblib.load('/home/chetan/Documents/Workspace/Project/median_visibility.pkl')
-loo_encodings = joblib.load('/home/chetan/Documents/Workspace/Project/loo_encodings.pkl')
+item_weight_medians = joblib.load('item_weight_medians.pkl')
+outlet_size_modes = joblib.load('outlet_size_modes.pkl')
+median_visibility = joblib.load('median_visibility.pkl')
+loo_encodings = joblib.load('loo_encodings.pkl')
 
 
 def data_preprocessing(data):
