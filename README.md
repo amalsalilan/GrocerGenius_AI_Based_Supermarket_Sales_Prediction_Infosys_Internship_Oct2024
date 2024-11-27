@@ -8,6 +8,7 @@ Develop an AI model to predict supermarket sales based on historical transaction
 
 ## Components
 - **User Interface**: Allows data upload and displays prediction results.
+- Download the Grocerai file to run the UI in your interface.
 - **Data Processing Pipeline**: Manages data preparation, model training, and optimization.
 - **Storage & Deployment**: Manages model storage and deployment for accessibility.
 
