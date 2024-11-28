@@ -1,10 +1,9 @@
-NumPy version: 2.1.3
-Pandas version: 2.2.3
-scikit-learn version: 1.5.2
-XGBoost version: 2.1.2
-Joblib version: 1.4.2
 streamlit
-streamlit
+pandas
+numpy
+joblib
+xgboost
+scikit-learn
 category_encoders
 gunicorn
 flask
