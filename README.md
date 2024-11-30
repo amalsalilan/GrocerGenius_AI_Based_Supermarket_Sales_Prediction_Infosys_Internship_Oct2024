@@ -2,7 +2,7 @@
 
 # GrocerGenius: AI-Based Supermarket Sales Prediction 🛒🤖
 
-Welcome to **GrocerGenius** – the AI-powered app designed to predict supermarket sales with precision! Using **machine learning** techniques, GrocerGenius helps supermarkets forecast sales based on historical data, promotions, holidays, and more. With this app, grocery stores can optimize stock levels, improve inventory management, and plan promotions effectively.
+Welcome to **GrocerGenius** – the AI-powered app designed to predict supermarket sales with precision! Using **machine learning** techniques, GrocerGenius helps supermarkets forecast sales based on historical data, product details, and more. With this app, grocery stores can optimize stock levels, improve inventory management, and plan promotions effectively.
 
 ---
 
@@ -106,6 +106,14 @@ These metrics provide insights into the accuracy and reliability of the predicti
 
 ---
 
+## 🎥 **App Demo**
+
+Check out how **GrocerGenius** works in action! 🛒🤖
+
+![App Demo](assets/demo.gif)
+
+---
+
 ## 🌟 **Contributing**
 
 We welcome contributions! If you’d like to improve the app or fix any issues, feel free to fork the repository, submit pull requests, or open an issue for discussion. Please ensure you follow the guidelines for contributing.
@@ -154,5 +162,5 @@ grocergenius/
 
 ---
 
-**📌GrocerGenius** leverages the power of AI to make supermarket sales forecasting smarter, faster, and more accurate. By using this app, supermarkets can optimize inventory and plan effectively, making operations smoother and more efficient.
+**GrocerGenius** leverages the power of AI to make supermarket sales forecasting smarter, faster, and more accurate. By using this app, supermarkets can optimize inventory and plan effectively, making operations smoother and more efficient.
 
