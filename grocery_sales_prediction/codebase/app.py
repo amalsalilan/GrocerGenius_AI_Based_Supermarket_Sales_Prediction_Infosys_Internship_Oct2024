@@ -11,6 +11,11 @@ BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 st.title("Grocery Sales Prediction")
 
+col1,col2=st.columns(2)
+
+
+
+
 # Load unique values for Item_Identifier (optional)
 item_identifiers = ['FDA15', 'DRC01', 'FDN15', 'FDX07', 'NCD19']  # Replace with actual identifiers if needed
 
