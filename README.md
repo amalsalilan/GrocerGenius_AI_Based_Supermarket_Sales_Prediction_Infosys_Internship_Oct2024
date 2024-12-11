@@ -104,6 +104,8 @@ pip install -r requirements.txt
 - [Amal Salilan](https://github.com/amalsalilan)  
 
 ---
+## **Try out on:**  
+https://grocergenius.streamlit.app/
 
 ## **License**  
 This project is licensed under the [MIT License](LICENSE).  
