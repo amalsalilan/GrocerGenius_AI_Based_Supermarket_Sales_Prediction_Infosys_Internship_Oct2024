@@ -6,16 +6,16 @@ from sklearn.preprocessing import StandardScaler, OrdinalEncoder, OneHotEncoder
 from sklearn.metrics import r2_score
 
 # Load the saved encoders and model
-ordinal_encoder = joblib.load('ordinal_encoder.pkl')
-onehot_encoder = joblib.load('onehot_encoder.pkl')
-scaler = joblib.load('standard_scaler.pkl')
+ordinal_encoder = joblib.load('app_files/ordinal_encoder.pkl')
+onehot_encoder = joblib.load('app_files/onehot_encoder.pkl')
+scaler = joblib.load('app_files/standard_scaler.pkl')
 
 # Load label encoders
-item_identifier_encoder = joblib.load('Item_Identifier_label_encoder.pkl')
-outlet_identifier_encoder = joblib.load('Outlet_Identifier_label_encoder.pkl')
+item_identifier_encoder = joblib.load('app_files/Item_Identifier_label_encoder.pkl')
+outlet_identifier_encoder = joblib.load('app_files/Outlet_Identifier_label_encoder.pkl')
 
 # Load the saved Gradient Boosting model
-best_gb_model = joblib.load('xgboost_model.pkl')
+best_gb_model = joblib.load('app_files/xgboost_model.pkl')
 
 # Define preprocessing function for inference
 def data_preprocessing(input_data):
