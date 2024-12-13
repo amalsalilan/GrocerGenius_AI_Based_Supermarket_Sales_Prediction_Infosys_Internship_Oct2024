@@ -105,7 +105,7 @@ pip install -r requirements.txt
 
 ---
 ## **Try out on:**  
-https://grocergenius.streamlit.app/
+[https://grocergenius.streamlit.app/](https://grocergenius.streamlit.app/)
 
 ## **License**  
 This project is licensed under the [MIT License](LICENSE).  
